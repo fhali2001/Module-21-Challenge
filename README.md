@@ -154,12 +154,13 @@ Now that you're finished with your analysis in Google Colab, you need to get you
 
 This assignment will be evaluated against the requirements and assigned a grade according to the following table:
 
-Grade	Points
-A (+/-)	90+
-B (+/-)	80–89
-C (+/-)	70–79
-D (+/-)	60–69
-F (+/-)	< 60
+| Grade  | Points |
+| ------ | ------ |
+| A (+/-)| 90+    |
+| B (+/-)| 80–89  |
+| C (+/-)| 70–79  |
+| D (+/-)| 60–69  |
+| F (+/-)| < 60   |
 
 ### Submission
 
